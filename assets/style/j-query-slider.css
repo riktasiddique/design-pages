@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    width: 80%;
+    min-height: 100vh;
+    margin: 0 auto;
+    overflow: hidden; 
+}
+.slides{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.slides img{
+    width: 100%;
+    height: fit-content;
+    display: block;
+}
+.slide{
+    
+}
